@@ -53,3 +53,26 @@ header img {
 #checkbox-menu {
     display: none;
 }
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(11, 0, 71);
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.row:last-child{
+    margin-bottom: 8vh;
+}
+
+.card {
+    padding: 10px;
+    margin: 40px;
+    height: 400px;
+    width: 300px;
+}
+
